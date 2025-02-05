@@ -19,7 +19,7 @@ Projeto exclusivo promovido pelo @Sujeitoprogramador.
 <br>
 
 <p align="center">
-  <img alt="Agregador de Links" src="https://i.ibb.co/pR6R7xG/dark.jpg" width="50%">
+  <img alt="Agregador de Links" src="https://i.ibb.co/zhqkgFRp/hamburguer.jpg">
 </p>
 
 ## 🚀 Tecnologias
