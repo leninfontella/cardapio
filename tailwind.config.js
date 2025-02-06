@@ -10,7 +10,7 @@ fontFamily: {
     extend: {
 
       backgroundImage:{
-        "home": "url('/assets/bg.png')"
+        "home": "url('../assets/bg.png')"
       }
     },
   },
